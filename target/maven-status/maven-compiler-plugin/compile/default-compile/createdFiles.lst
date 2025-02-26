@@ -1,0 +1,3 @@
+com\fancyfy\accessories\controller\ProductController.class
+com\fancyfy\accessories\dao\ProductDao.class
+com\fancyfy\accessories\model\Product.class
